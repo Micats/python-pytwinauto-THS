@@ -18,3 +18,5 @@
 ## 相关库
     python:
         * pywinauto
+
+生死有命，富贵在天
